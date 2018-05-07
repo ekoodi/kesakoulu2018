@@ -1,1 +1,1 @@
-# kesakoulu2018
+# EKOODI-kesäkoulu 2018
